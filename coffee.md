@@ -1,7 +1,5 @@
-
-ikekf	Recipe
-=======
-kekfeRecipe
->>>>>>> servingSize
+coffee
+ikekf	Recipe=
+kekfeRecip
 
 -Coffee
